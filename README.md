@@ -140,8 +140,8 @@ These steps work on **any RHEL/CentOS-based Linux server** — not tied to one m
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nitinoneview/linux-server-health-monitor.git
-cd linux-server-health-monitor
+git clone https://github.com/nitinoneview/linux-server-health-monitoring.git
+cd linux-server-health-monitoring
 ```
 
 ### 2. Make sure `mail` is installed and working
